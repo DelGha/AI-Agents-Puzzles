@@ -12,7 +12,6 @@ The search agent project extends the capabilities of Pacman and provides solutio
 
 - Implemented search algorithms for Pacman.
 - Solutions for the Eight Puzzle problem.
-- Collaboration with Alexandru Cristian Moldovan.
 - Documentation and materials for experimentation provided.
 
 Feel free to explore the documentation and experiment with the provided materials!
