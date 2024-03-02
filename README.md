@@ -2,7 +2,7 @@
 
 This project is a search agent developed based on materials from [UC Berkeley's AI course](http://ai.berkeley.edu/). It includes several search algorithms for Pacman and features for solving the Eight Puzzle.
 
-The project was undertaken during the AI laboratory in the 3rd year of study, in collaboration with my colleague Alexandru Cristian Moldovan.
+The project was undertaken during the AI laboratory in the 3rd year of study, by Iobaj Andrei Sebastian and Moldovan Alexandru Cristian.
 
 ## Overview
 
