@@ -27,3 +27,16 @@ To use the search agent project, follow these steps:
 ## Documentation
 
 For detailed documentation and instructions, refer to the documentation provided in the repository.
+
+## Images
+
+![image](https://github.com/DelGha/AI-Agents-Puzzles/assets/116180026/bd3df682-2cdd-4b83-ae9a-276d46faa870)
+
+
+![image](https://github.com/DelGha/AI-Agents-Puzzles/assets/116180026/4a34cad1-6213-4ebe-b8d6-6bedf350aead)
+
+
+![image](https://github.com/DelGha/AI-Agents-Puzzles/assets/116180026/e44cab34-2898-4bf5-81a2-1d868512266a)
+
+
+
